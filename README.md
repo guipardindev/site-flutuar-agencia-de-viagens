@@ -13,7 +13,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://guipardindev.github.io/projeto-1/)
+- [Acesse o projeto finalizado, online](https://guipardindev.github.io/site-flutuar-agencia-de-viagens/)
 
 ## 🔖 Layout
 
